@@ -5,7 +5,10 @@
 */
 
 //Code here
-
+const me = {
+  name: "Logan",
+  age: 25,
+}
 
 
 //////////////////////////// PROBLEM 2 ////////////////////////////
@@ -16,6 +19,12 @@
 //and goodBoy/goodGirl (a boolean).
 
 //Code here
+const dog = {
+  name: "Kodiak",
+  color: "Black",
+  age: 5,
+  goodBoy: true,
+}
 
 
 
@@ -23,7 +32,7 @@
 /* Print out the name of the dog you created in problem 2 using dot-notation. */
 
 //Code here
-
+console.log(dog.name)
 
 
 //////////////////////////// PROBLEM 4 ////////////////////////////
